@@ -1,11 +1,11 @@
 {
-  "version": "1.4.1",
-  "notes": "Maintenance release validating the in-app update path. No functional changes.",
-  "pub_date": "2026-07-08T14:40:46.371Z",
+  "version": "1.4.2",
+  "notes": "SanctuWrite v1.4.2",
+  "pub_date": "2026-07-14T17:10:28.125Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM0FZdUYveEU4TUFnQU4rNWRvelp2YXppcVZpOVJEMU9HTG9sS1N0UXg0MmFFWTk3Y0Myc0x5L3d5TWdnbUlEcUVKelV5SlBpa0JOZGFWNzE5b1pIbXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTE5NTA3CWZpbGU6U2FuY3R1V3JpdGVfMS40LjFfeDY0LXNldHVwLmV4ZQplbURuemV6NzJ0YUVhV2hUbXBJVm51U3R6RGdidmUwUHVpUTdudHlMcjZEeXF4RjA5OCtRSS85TTlHZ1RQS0dVeVFoTE5hNWlybWVhZWRhOW9LL0JBdz09Cg==",
-      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.4.1/SanctuWrite_1.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM0xoamxQZGdyeEwrcjdZeHkyeGNGTldaYUxJZEVtWVNYd00xdTFhUWtVOXhwc2xSRnNuT2RqS0pneWRzRFVaRXhZcElLa1d5QUJVd21HMUJGNUNESkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDQ5MDI3CWZpbGU6U2FuY3R1V3JpdGVfMS40LjJfeDY0LXNldHVwLmV4ZQpRT1pVVlZPdU9pZDJxdm53cmdCTUZwbU1mUEMrZ3pMc3V2NVNrY0YyMTIxenR2dnBaUjVTQVFhTTVpUEhNSE9jZ3g1NFEzekp1elB3bkYrbGtLLzNEdz09Cg==",
+      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.4.2/SanctuWrite_1.4.2_x64-setup.exe"
     }
   }
 }
