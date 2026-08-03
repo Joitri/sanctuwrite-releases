@@ -1,11 +1,11 @@
 {
-  "version": "1.4.2",
-  "notes": "SanctuWrite v1.4.2",
-  "pub_date": "2026-07-14T17:10:28.125Z",
+  "version": "1.4.3",
+  "notes": "SanctuWrite v1.4.3",
+  "pub_date": "2026-08-03T06:21:14.457Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM0xoamxQZGdyeEwrcjdZeHkyeGNGTldaYUxJZEVtWVNYd00xdTFhUWtVOXhwc2xSRnNuT2RqS0pneWRzRFVaRXhZcElLa1d5QUJVd21HMUJGNUNESkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDQ5MDI3CWZpbGU6U2FuY3R1V3JpdGVfMS40LjJfeDY0LXNldHVwLmV4ZQpRT1pVVlZPdU9pZDJxdm53cmdCTUZwbU1mUEMrZ3pMc3V2NVNrY0YyMTIxenR2dnBaUjVTQVFhTTVpUEhNSE9jZ3g1NFEzekp1elB3bkYrbGtLLzNEdz09Cg==",
-      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.4.2/SanctuWrite_1.4.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM1BmN251Um5BSk00WWlPcmVJVHZMdjRjUk5TZTZQUUh2SnFOSUpVVW1pL3BOMURQQVRiZk45TG9XVXlJcU5INklLOHg4cXVXNFhQNVVmNWhDSmliZndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzM4MDczCWZpbGU6U2FuY3R1V3JpdGVfMS40LjNfeDY0LXNldHVwLmV4ZQp2bERNRVlsZHRhQkxNNk9wVVZjVmxBT05JdFZYSHIzVGV6RWhyTjUwUFZEa1NibnlQb3RDd0RoT0s5RzRNNjIwamtCeGNHRlYzQ1NnOGxvT1VJSTBEZz09Cg==",
+      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.4.3/SanctuWrite_1.4.3_x64-setup.exe"
     }
   }
 }
