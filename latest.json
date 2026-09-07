@@ -1,11 +1,11 @@
 {
-  "version": "1.4.3",
-  "notes": "SanctuWrite v1.4.3",
-  "pub_date": "2026-08-03T06:21:14.457Z",
+  "version": "1.4.4",
+  "notes": "Fixes drop caps on chapters that open with a header.",
+  "pub_date": "2026-09-07T21:03:13.968Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM1BmN251Um5BSk00WWlPcmVJVHZMdjRjUk5TZTZQUUh2SnFOSUpVVW1pL3BOMURQQVRiZk45TG9XVXlJcU5INklLOHg4cXVXNFhQNVVmNWhDSmliZndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzM4MDczCWZpbGU6U2FuY3R1V3JpdGVfMS40LjNfeDY0LXNldHVwLmV4ZQp2bERNRVlsZHRhQkxNNk9wVVZjVmxBT05JdFZYSHIzVGV6RWhyTjUwUFZEa1NibnlQb3RDd0RoT0s5RzRNNjIwamtCeGNHRlYzQ1NnOGxvT1VJSTBEZz09Cg==",
-      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.4.3/SanctuWrite_1.4.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM0lOOENtTjhEM2lURkNHbmdKa3JFRGErY00zUXZZZzZJV09leFllVGlMV1lkaDI1Ky94VTNwZTZaMWpGNk1YTlMrWFlxcU5ZNC94Z3VXTVY2ZTBCS1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE0OTkyCWZpbGU6U2FuY3R1V3JpdGVfMS40LjRfeDY0LXNldHVwLmV4ZQowQklSVTQxd0s5QkdkQ0JKT29JVjVCOHlSYjc0enZ4bTVHRU5aK0M2bHpWUkFHV1hFYlo1M2pxK1VKT0w1cSt6YTM1QWxZKzloTTR2YnNnQ2NUNDlEQT09Cg==",
+      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.4.4/SanctuWrite_1.4.4_x64-setup.exe"
     }
   }
 }
