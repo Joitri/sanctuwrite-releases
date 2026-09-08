@@ -1,11 +1,11 @@
 {
-  "version": "1.4.4",
-  "notes": "Fixes drop caps on chapters that open with a header.",
-  "pub_date": "2026-09-07T21:03:13.968Z",
+  "version": "1.5.0",
+  "notes": "Adds Word (.docx) export, in submission format or your book's style.",
+  "pub_date": "2026-09-08T03:36:37.042Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM0lOOENtTjhEM2lURkNHbmdKa3JFRGErY00zUXZZZzZJV09leFllVGlMV1lkaDI1Ky94VTNwZTZaMWpGNk1YTlMrWFlxcU5ZNC94Z3VXTVY2ZTBCS1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE0OTkyCWZpbGU6U2FuY3R1V3JpdGVfMS40LjRfeDY0LXNldHVwLmV4ZQowQklSVTQxd0s5QkdkQ0JKT29JVjVCOHlSYjc0enZ4bTVHRU5aK0M2bHpWUkFHV1hFYlo1M2pxK1VKT0w1cSt6YTM1QWxZKzloTTR2YnNnQ2NUNDlEQT09Cg==",
-      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.4.4/SanctuWrite_1.4.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM1BENFZSL2ZzakJXTzg3QXdsYWpJbjFONTM0Y2JHNldEL09sekYrcE9mMnFKSnZoN05sSjkxOHVDM3UySEpONlJwbW1jc1BkNGJXN3I5TWkrMExneGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODM4NTk2CWZpbGU6U2FuY3R1V3JpdGVfMS41LjBfeDY0LXNldHVwLmV4ZQpHcWhGYkZlSjc0cGNXVjdCNTBYOU42aFl6Yk9hdFc0QWhUaWhrNjdLR1dVeVhJaVcwelZFNVFlZDEzOVpvRGJhMWZObTI1N2J5ejg2ZFNaenVVWTFCdz09Cg==",
+      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.5.0/SanctuWrite_1.5.0_x64-setup.exe"
     }
   }
 }
