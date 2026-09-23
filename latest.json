@@ -1,11 +1,11 @@
 {
-  "version": "1.5.0",
-  "notes": "Adds Word (.docx) export, in submission format or your book's style.",
-  "pub_date": "2026-09-08T03:36:37.042Z",
+  "version": "1.5.1",
+  "notes": "Fixes EPUB centering on the title page and the copyright, dedication and epigraph pages.",
+  "pub_date": "2026-09-23T13:00:46.698Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM1BENFZSL2ZzakJXTzg3QXdsYWpJbjFONTM0Y2JHNldEL09sekYrcE9mMnFKSnZoN05sSjkxOHVDM3UySEpONlJwbW1jc1BkNGJXN3I5TWkrMExneGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODM4NTk2CWZpbGU6U2FuY3R1V3JpdGVfMS41LjBfeDY0LXNldHVwLmV4ZQpHcWhGYkZlSjc0cGNXVjdCNTBYOU42aFl6Yk9hdFc0QWhUaWhrNjdLR1dVeVhJaVcwelZFNVFlZDEzOVpvRGJhMWZObTI1N2J5ejg2ZFNaenVVWTFCdz09Cg==",
-      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.5.0/SanctuWrite_1.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM05ldUZMSGhxYTVyT0JwVUlZZUpRQVRIV1JpQlFJMUN3dHNFRGtyL2hPZ1ZLZVNacjVLQ255TmxZMVhPaFpTUFlOdHY0VXB6bUtnbEFtQXFqNXVMUHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTY4NDQ2CWZpbGU6U2FuY3R1V3JpdGVfMS41LjFfeDY0LXNldHVwLmV4ZQpOY1FITFZ1Q3J3QTcxb3dNL2orQkduZHl1OHpWckdkVlhmRS9iak9STE1Bb0l5OHVlN204bTJkZnloc2xEQXlOM2RGSDZKaER4N3lySVMza3FaNlVCQT09Cg==",
+      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.5.1/SanctuWrite_1.5.1_x64-setup.exe"
     }
   }
 }
