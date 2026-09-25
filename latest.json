@@ -1,11 +1,11 @@
 {
-  "version": "1.5.1",
-  "notes": "Fixes EPUB centering on the title page and the copyright, dedication and epigraph pages.",
-  "pub_date": "2026-09-23T13:00:46.698Z",
+  "version": "1.5.2",
+  "notes": "Grammar presets (Drafting / Standard / Line edit), a grouped rules panel, and a fix for 'lets out' being flagged as a mistaken 'let's'.",
+  "pub_date": "2026-09-25T04:59:09.024Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM05ldUZMSGhxYTVyT0JwVUlZZUpRQVRIV1JpQlFJMUN3dHNFRGtyL2hPZ1ZLZVNacjVLQ255TmxZMVhPaFpTUFlOdHY0VXB6bUtnbEFtQXFqNXVMUHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTY4NDQ2CWZpbGU6U2FuY3R1V3JpdGVfMS41LjFfeDY0LXNldHVwLmV4ZQpOY1FITFZ1Q3J3QTcxb3dNL2orQkduZHl1OHpWckdkVlhmRS9iak9STE1Bb0l5OHVlN204bTJkZnloc2xEQXlOM2RGSDZKaER4N3lySVMza3FaNlVCQT09Cg==",
-      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.5.1/SanctuWrite_1.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM0EwNFI2L1NhSVhLZUl3a01senQwVmYydUNnWGd5QzkzMXRqTWZXM3hXekNUc3FLdkZvaWVwd1JhVFFTY04wdy9IYldDM1A4eDZ1OXF2N0E3amlJS1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzEyMzQ4CWZpbGU6U2FuY3R1V3JpdGVfMS41LjJfeDY0LXNldHVwLmV4ZQpaazRWQjIzTUVXY05xdnVrb3dyL0ZkcU9DRFZON0ZCdllNc0FpdElnYUFsNktXb2V4S21FUUJZVzJwK0JWVDFpM1JCQXRPQ0pBVzl0UVNkNWNTSENEdz09Cg==",
+      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.5.2/SanctuWrite_1.5.2_x64-setup.exe"
     }
   }
 }
