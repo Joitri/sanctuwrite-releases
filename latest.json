@@ -1,11 +1,11 @@
 {
-  "version": "1.5.2",
-  "notes": "Grammar presets (Drafting / Standard / Line edit), a grouped rules panel, and a fix for 'lets out' being flagged as a mistaken 'let's'.",
-  "pub_date": "2026-09-25T04:59:09.024Z",
+  "version": "1.6.0",
+  "notes": "Work on two novels at once: Ctrl+N opens another project window.",
+  "pub_date": "2026-09-30T23:31:05.437Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM0EwNFI2L1NhSVhLZUl3a01senQwVmYydUNnWGd5QzkzMXRqTWZXM3hXekNUc3FLdkZvaWVwd1JhVFFTY04wdy9IYldDM1A4eDZ1OXF2N0E3amlJS1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzEyMzQ4CWZpbGU6U2FuY3R1V3JpdGVfMS41LjJfeDY0LXNldHVwLmV4ZQpaazRWQjIzTUVXY05xdnVrb3dyL0ZkcU9DRFZON0ZCdllNc0FpdElnYUFsNktXb2V4S21FUUJZVzJwK0JWVDFpM1JCQXRPQ0pBVzl0UVNkNWNTSENEdz09Cg==",
-      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.5.2/SanctuWrite_1.5.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM0xldUg1TkpqcmEwOE82VWlhaTRxTU50TmFsZ0llVjMwT0Y1OWhpWDJHVHZ2ai9kNTk0V0ZZdlQzbTBJWms1Wkpib3B4QjNvVlpUYjhwUlpPOFpqWEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODExMDY1CWZpbGU6U2FuY3R1V3JpdGVfMS42LjBfeDY0LXNldHVwLmV4ZQpPN2FzSjB6VFFxdHQ5dVVPWUl6ajdNblcwbS9wQlFoVEU4RlQrMTNGUHROK1F4RkJFZWpVUTBXSUlkcFhtWm0veXJqRGRVbE1tVEJlZWh1cFhEQXdBUT09Cg==",
+      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.6.0/SanctuWrite_1.6.0_x64-setup.exe"
     }
   }
 }
