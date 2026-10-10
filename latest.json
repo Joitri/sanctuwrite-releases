@@ -1,11 +1,11 @@
 {
-  "version": "1.6.0",
-  "notes": "Work on two novels at once: Ctrl+N opens another project window.",
-  "pub_date": "2026-09-30T23:31:05.437Z",
+  "version": "1.7.0",
+  "notes": "Alternate names, silent references, annotations, and details pulled into the prose.",
+  "pub_date": "2026-10-10T01:46:18.250Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM0xldUg1TkpqcmEwOE82VWlhaTRxTU50TmFsZ0llVjMwT0Y1OWhpWDJHVHZ2ai9kNTk0V0ZZdlQzbTBJWms1Wkpib3B4QjNvVlpUYjhwUlpPOFpqWEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODExMDY1CWZpbGU6U2FuY3R1V3JpdGVfMS42LjBfeDY0LXNldHVwLmV4ZQpPN2FzSjB6VFFxdHQ5dVVPWUl6ajdNblcwbS9wQlFoVEU4RlQrMTNGUHROK1F4RkJFZWpVUTBXSUlkcFhtWm0veXJqRGRVbE1tVEJlZWh1cFhEQXdBUT09Cg==",
-      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.6.0/SanctuWrite_1.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWm1JY01lS0RnM0FNL3RlMkh6eElqQjZVcGg2Wm0waVBaaHYvK25pYnRwcXBCZE1DdTAyQW1penpjODVCc1UvakxOcmQxWEJJbVpyZ2RtcjA2L2hkODlVRGJmazJIS3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTk2NzQ1CWZpbGU6U2FuY3R1V3JpdGVfMS43LjBfeDY0LXNldHVwLmV4ZQp4bzhSdjFUMTZESG8vZ2x0U05BYjRFWXJXRVhzS1VFZjdsSDF4U2x2dThXWWtaZWEzRFliYzBGVStIcnRmcnBHdXZwa00vb0xBd1dZOUZmeVNUNVRDdz09Cg==",
+      "url": "https://github.com/Joitri/sanctuwrite-releases/releases/download/v1.7.0/SanctuWrite_1.7.0_x64-setup.exe"
     }
   }
 }
